@@ -3,13 +3,13 @@ CryptoCoin Core integration/staging tree
 
 https://cryptocoincore.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see
+For an immediately usable, binary version of the CryptoCoin Core software, see
 https://cryptocoincore.org/en/download/.
 
 What is CryptoCoin Core?
 ---------------------
 
-CryptoCoin Core connects to the Bitcoin peer-to-peer network to download and fully
+CryptoCoin Core connects to the CryptoCoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
